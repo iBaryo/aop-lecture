@@ -6,7 +6,8 @@
   "scripts": {
     "intro": "ts-node intro",
     "metadata": "ts-node metadata",
-    "metadata-design": "ts-node metadata/metadata-design.ts"
+    "metadata-design": "ts-node metadata/metadata-design.ts",
+    "compiler": "ts-node compiler"
   },
   "author": "Baryo",
   "license": "MIT",
