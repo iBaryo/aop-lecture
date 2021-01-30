@@ -1,0 +1,19 @@
+{
+  "name": "aop-lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "intro": "ts-node intro",
+    "metadata": "ts-node metadata",
+    "metadata-design": "ts-node metadata/metadata-design.ts"
+  },
+  "author": "Baryo",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3",
+    "utils-decorators": "^1.8.0"
+  }
+}
